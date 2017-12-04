@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
                          DESC
   s.homepage            = "https://github.com/joeferraro/react-native-cookies"
   s.license             = package['license']
-  s.author              = "Jianglei"
+  s.author              = "joeferraro"
   s.source              = { :git => "git@github.com:joeferraro/react-native-cookies.git", :tag => "v#{s.version}" }
   s.requires_arc        = true
   s.platform            = :ios, "7.0"
